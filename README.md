@@ -3,7 +3,9 @@ Class will be held Mondays and Wednesday in the Physics and Astronomy Auditorium
 http://www.astro.washington.edu/users/ajc/teaching/a425
 
 ## Class and Office hours 
-- The grade will be broken down as:Mid term 25%, Final 50%, Homework 25%
+
+The grade will be broken down as:
+- Mid term 25%, Final 50%, Homework 25%
 - Midterm will be on Wednesday November 2nd 2016
 - Final will be Tuesday, December 13, 2016, 230-420 pm, PAA A210
 
